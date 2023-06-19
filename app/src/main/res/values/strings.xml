@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="authen">Authentication</string>
+    <string name="user">User:</string>
+    <string name="password">Password</string>
+    <string name="pass">Password:</string>
+    <string name="log">Log in</string>
+    <string name="reg">Register</string>
+    <string name="save">Save</string>
+    <string name="registration">Registartion</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
